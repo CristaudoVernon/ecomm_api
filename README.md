@@ -30,7 +30,7 @@ Developed with Node.js, using *Express* framework.
 
 I've worked with this dependencies:
 - **Mongoose** to get and post in MongoDB.
-- **JWT** to generate a user token for login.
+- **JWT** to generate an user token for login.
 - **Bcrypt** to encrypt the users passwords.
 
 Features:
