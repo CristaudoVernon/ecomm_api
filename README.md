@@ -28,7 +28,7 @@ This is the final project of the "Desarrollo con Node.js" course,
 performed at UTN (Universidad Tecnologica Nacional).
 Developed with Node.js, using *Express* framework.
 
-I worked with this dependencies:
+I've worked with this dependencies:
 - **Mongoose** to get and post in MongoDB.
 - **JWT** to generate a user token for login.
 - **Bcrypt** to encrypt the users passwords.
